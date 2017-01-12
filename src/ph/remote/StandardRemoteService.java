@@ -15,14 +15,6 @@ import wt.workflow.engine.WfVariable;
 public class StandardRemoteService extends StandardManager implements RemoteService {
 	
 	private static final Logger LOG = LogR.getLogger(StandardRemoteService.class.getName());
-	
-	private static final String DEFAULT_ARCHIVE_FILE_NAME = "document_contents.zip";
-	
-	private static final boolean IS_EMPTY_FILE_VALID = true;
-	
-	private static final String MORE_RESOURCE = "com.ptc.netmarkets.object.objectResource";
-	
-	private static File saveDirectory = null;
 
 	public static StandardRemoteService newStandardRemoteService() throws WTException {
 		StandardRemoteService service = new StandardRemoteService();
