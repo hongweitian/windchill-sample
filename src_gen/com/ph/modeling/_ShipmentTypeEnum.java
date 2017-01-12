@@ -1,13 +1,13 @@
-package com.lenovo.plm.ebg.arbortext;
+package com.ph.modeling;
 
 @SuppressWarnings({"cast", "deprecation", "unchecked"})
 public abstract class _ShipmentTypeEnum extends wt.fc.DynamicEnumType {
    static final long serialVersionUID = 1;
 
-   static final java.lang.String RESOURCE = "com.lenovo.plm.ebg.arbortext.arbortextResource";
+   static final java.lang.String RESOURCE = "com.ph.modeling.modelingResource";
    static final java.lang.String CLASSNAME = new ShipmentTypeEnum().getClass().getName();
 
-   static final java.lang.String CLASS_RESOURCE = "com.lenovo.plm.ebg.arbortext.ShipmentTypeEnumRB";
+   static final java.lang.String CLASS_RESOURCE = "com.ph.modeling.ShipmentTypeEnumRB";
    @SuppressWarnings("rawtypes") static java.util.Hashtable localeSets;
    static final java.util.Map<String, ShipmentTypeEnum> dynamicSet = new java.util.concurrent.ConcurrentHashMap<>();
 

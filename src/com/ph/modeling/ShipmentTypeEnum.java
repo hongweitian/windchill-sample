@@ -1,4 +1,4 @@
-package com.lenovo.plm.ebg.arbortext;
+package com.ph.modeling;
 import wt.fc.DynamicEnumType;
 import com.ptc.windchill.annotations.FrozenSerializable;
 import com.ptc.windchill.annotations.metadata.*;
