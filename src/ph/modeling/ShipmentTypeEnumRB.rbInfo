@@ -1,0 +1,34 @@
+ResourceInfo.class=wt.tools.resource.EnumResourceInfo
+ResourceInfo.customizable=true
+ResourceInfo.deprecated=false
+
+# Entry Format (values equal to default value are not included)
+# <key>.value=
+# <key>.category=
+# <key>.comment=
+# <key>.argComment<n>=
+# <key>.constant=
+# <key>.customizable=
+# <key>.deprecated=
+# <key>.abbreviatedDisplay=
+# <key>.fullDisplay=
+# <key>.shortDescription=
+# <key>.longDescription=
+# <key>.order=
+# <key>.defaultValue=
+# <key>.selectable=
+
+# Entry Contents
+
+PARTIAL.value=Partial
+PARTIAL.order=10
+
+FINAL.value=Final
+FINAL.order=20
+
+REVISED.value=Revised
+REVISED.order=30
+
+EMERGENCY.value=Emergency
+EMERGENCY.order=40
+
