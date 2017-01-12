@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<factorypath>
+  <factorypathentry kind='EXTJAR' id='D:/DEVELOP/WindchillJars/10.2M020/srclib/tool/AnnotationProcessing.jar' enabled='true' runInBatchMode='false' />
+  <factorypathentry kind='EXTJAR' id='D:/DEVELOP/WindchillJars/10.2M020/srclib/tool/Annotations.jar' enabled='true' runInBatchMode='false' />
+  <factorypathentry kind='EXTJAR' id='D:/DEVELOP/WindchillJars/10.2M020/srclib/wnc/CommonCore.jar' enabled='true' runInBatchMode='false' />
+  <factorypathentry kind='EXTJAR' id='D:/DEVELOP/WindchillJars/10.2M020/srclib/jmxcore/WtLogR.jar' enabled='true' runInBatchMode='false' />
+  <factorypathentry kind='EXTJAR' id='D:/DEVELOP/WindchillJars/10.2M020/srclib/install/InstallUtil.jar' enabled='true' runInBatchMode='false' />
+  <factorypathentry kind='EXTJAR' id='D:/DEVELOP/WindchillJars/10.2M020/srclib/commons-collections.jar' enabled='true' runInBatchMode='false' />
+  <factorypathentry kind='EXTJAR' id='D:/DEVELOP/WindchillJars/10.2M020/srclib/log4j.jar' enabled='true' runInBatchMode='false' />
+</factorypath>
